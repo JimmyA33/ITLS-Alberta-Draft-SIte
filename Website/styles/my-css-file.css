@@ -1,0 +1,43 @@
+h1 {
+	color: #004b9d;
+}
+
+
+header {
+	background: rgb(249 213 54);
+	border-style: solid;
+	border-color: black;
+	border-width: 3px;
+	border-paddong: 3px;
+}
+
+nav {
+	color: rgb(249 213 54);	
+	background-color: #004b8d;
+	border-style: solid;
+	border-color: black;
+	}
+.crumbs {
+	list-style-type: none;
+	padding-left: 0;
+}
+.crumb {
+	display: inline-block;
+	content: ">";
+	padding: 3px;
+}
+.sidebar {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 6;
+  top: 10;
+  left: 5;
+  background-color: rgb(249 213 54);
+  overflow-x: hidden;
+  padding-top: 10px;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  
+}

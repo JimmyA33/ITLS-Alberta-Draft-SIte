@@ -1,0 +1,24 @@
+body {
+  font-family: ariel, helvetica, san-serif:
+}
+
+header {
+  text-align: right;  
+  /*font-family: cursive;*/
+  color: #1D367F;
+  border: 2px;
+  border-color: black;
+  border-style: solid;
+  margin: 5px;
+  padding: 5px;
+  background-color: #F9D536;
+}
+
+.navbar {
+
+  border: 2px;
+  border-color: black;
+  border-style: solid;
+  /*color: #F9D536;*/
+  background-color: #1D367F;
+}
